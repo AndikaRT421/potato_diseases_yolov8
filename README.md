@@ -4,19 +4,19 @@ There's 4 classes in this trial
 
 - Black Scurf
 
-![bs](/test/images/28_jpg.rf.ba6b2e5783fadf44f272f38660fd1e9b.jpg)
+<img src="/test/images/28_jpg.rf.ba6b2e5783fadf44f272f38660fd1e9b.jpg" alt="bs" width="300"/>
 
 - Blackleg
 
-![blackleg](/test/images/13_jpg.rf.069749f199163ad6a5a90eec5c58153a.jpg)
+<img src="/test/images/13_jpg.rf.069749f199163ad6a5a90eec5c58153a.jpg" alt="blackleg" width="300"/>
 
 - Healthy
 
-![healthy](/test/images/23_jpg.rf.53ad2938590e2b1e86ef5a666fcceb94.jpg)
+<img src="/test/images/23_jpg.rf.53ad2938590e2b1e86ef5a666fcceb94.jpg" alt="healthy" width="300"/>
 
 - Pink Rot
 
-![pr](/test/images/23_jpg.rf.abb6cb90fd681a0617caa682b113b1f1.jpg)
+<img src="/test/images/23_jpg.rf.abb6cb90fd681a0617caa682b113b1f1.jpg" alt="pr" width="300"/>
 
 
 ## Model Evaluate
