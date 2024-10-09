@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['black_scurf', 'blackleg', 'healthy', 'pink_rot']
+
+roboflow:
+  workspace: my-project-tcoln
+  project: petani_app
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/my-project-tcoln/petani_app/dataset/1
